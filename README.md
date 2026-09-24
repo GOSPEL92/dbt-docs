@@ -1,4 +1,4 @@
-# Eze Gospel — Data Engineer & Analytics Professional
+# Eze Gospel â€” Data Engineer & Analytics Professional
 
 Welcome to my portfolio repository. This repo hosts the **dbt Docs site** for my SaaS Portfolio project, showcasing my ability to design, build, and document modern data pipelines.
 
@@ -42,5 +42,5 @@ I aim to leverage my expertise in **data engineering and analytics** to:
 
 ## ?? Contact
 - GitHub: [@GOSPEL92](https://github.com/GOSPEL92)
-- LinkedIn: (add your LinkedIn link here)
-- Email: (add your professional email here)
+- LinkedIn: https://www.linkedin.com/in/eze-chikaodili-gospel-9749bb235/
+- Email: gospeleze92@gmail.com
